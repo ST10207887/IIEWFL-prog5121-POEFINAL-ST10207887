@@ -8,7 +8,7 @@ import java.io.FileReader;
 import java.io.Reader;
 import java.lang.reflect.Type;
 
-
+//trigger github actions
 public class MainApp {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
